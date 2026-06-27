@@ -12,7 +12,7 @@
 
 **Estudiante:** Vicente Estrada
 
-**Fecha:** 08/06/2026
+**Fecha:** 27/06/2026
 
 ---
 
@@ -164,4 +164,4 @@ Vicente Estrada
 
 Duoc UC
 
-08/06/2026
+27/06/2026
