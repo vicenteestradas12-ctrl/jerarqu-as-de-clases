@@ -1,6 +1,7 @@
-# jerarqu-as-de-clases
+# jerarquias-de-clases
 <p align="center">
-  <img src="image(1).png" width="700">
+  <<img width="398" height="337" alt="image" src="https://github.com/user-attachments/assets/0cc6b928-5276-413d-bf57-4f6409245186" />
+>
 </p>
 
 # LlanquihueTourApp
